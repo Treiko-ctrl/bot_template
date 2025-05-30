@@ -1,4 +1,4 @@
-# 💀 Template Discord Bot
+# Template Discord Bot
 
 **Template Discord Bot** ist ein vielseitiges Startprojekt für moderne Discord-Bots.  
 Mit klarer Struktur, modularer Erweiterbarkeit und systemd-/Webhook-Integration eignet sich dieses Projekt perfekt für produktionsreife Bots.
