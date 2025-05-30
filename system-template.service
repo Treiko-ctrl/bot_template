@@ -1,0 +1,13 @@
+[Unit]
+Description=Template Discord Bot
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/template-discord-bot
+ExecStart=/opt/template-discord-bot/venv/bin/python main.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

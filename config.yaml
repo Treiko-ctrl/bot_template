@@ -1,0 +1,8 @@
+# config.yaml
+bot:
+  guild_id: 123456789012345678
+  status_channel_id: 987654321098765432
+  webhook_url: "https://discord.com/api/webhooks/..."
+
+features:
+  enable_reminders: true
